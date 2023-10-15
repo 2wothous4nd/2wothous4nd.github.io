@@ -1,0 +1,24 @@
+body {
+    background-image: url("img/sad-anime.gif");
+    background-repeat: repeat;
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.text-header{
+    margin: auto;
+    padding-left:.3rem;
+    padding-right:.3rem;
+    width: fit-content;
+    background-color: rgba(255, 255, 255, 0.623);
+    text-align: center;
+}
+
+.text-poem{
+    margin: auto;
+    padding-left:.3rem;
+    padding-right:.3rem;
+    width: fit-content;
+    background-color: rgba(255, 255, 255, 0.623);
+    text-align: left;
+}
